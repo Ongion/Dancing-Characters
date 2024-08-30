@@ -6,8 +6,10 @@ local t = Def.ActorFrame{};
 Motions = {
 	"AAAgain",
 	"Brain",
+	"Dokuhebi",
 	"Embarr",
 	"HareHare",
+	"Hiasobi",
 	"Luka",
 	"River",
 	"Saturation",
