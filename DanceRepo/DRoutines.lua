@@ -34,10 +34,6 @@ Motions = {
 }
 
 WarmUpMotions = {
-	"_Warmup0003",
-} 
-
-blah = {
 	"_Warmup0001",
 	"_Warmup0002",
 	"_Warmup0003",
